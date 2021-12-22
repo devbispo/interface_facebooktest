@@ -1,0 +1,18 @@
+h1 {color: blue;
+width: 25%;
+margin-left:550px}
+div {text-align: center;
+    margin-left:20px;
+    margin-right: 20px;
+    }
+h6 {text-align: center;
+    }
+#onbox{
+    box-shadow:5px 5px 5px  #888888, -5px -5px 5px #888888;
+    margin-top: 50px;
+    margin-left:35%;
+    margin-right: 35%;
+}
+#logo {text-align: center;
+    width: 25%;
+    }
